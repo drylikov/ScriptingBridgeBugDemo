@@ -12,4 +12,3 @@ ScriptingBridgeBugDemo/COAppDelegate.m file.
 
 
 
-
