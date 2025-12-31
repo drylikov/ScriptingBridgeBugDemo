@@ -7,4 +7,3 @@ when being called from Objective C via the Scripting Bridge. A reproduction case
 can be found in the applicationDidFinishLaunching: method of this project's 
 ScriptingBridgeBugDemo/COAppDelegate.m file. 
 
-
