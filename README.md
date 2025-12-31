@@ -8,4 +8,3 @@ can be found in the applicationDidFinishLaunching: method of this project's
 ScriptingBridgeBugDemo/COAppDelegate.m file. 
 
 
-
